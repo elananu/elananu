@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="chatgpt.jpg" width="220" style="border-radius:50%;" />
+  <img src="chatgpt.png" width="220" style="border-radius:50%;" />
 </p>
 <h3 align="center">B.Tech Artificial Intelligence & Data Science Student</h3>
 
