@@ -29,7 +29,7 @@
 <li>🎯 My dream is to become an <b>IAS Officer</b>.</li>
 <li>🌱 Currently learning <b>Deep Learning & Real-Time App Development</b>.</li>
 <li>🤝 Open to collaboration and innovative projects.</li>
-<li>📫 Reach me at: <b>your-email@example.com</b></li>
+<li>📫 Reach me at: <b>your-anusriie@gmail.com</b></li>
 </ul>
 
 ---
