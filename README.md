@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250" />
+  <img src=""C:\Users\Anusrii E\Downloads\chatgpt.png"" width="250" />
 </p>
 
 <h3 align="center">B.Tech Artificial Intelligence & Data Science Student</h3>
