@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250" />
+  <img src="https://mail.google.com/mail/u/0?ui=2&ik=ddffe7135c&attid=0.1&permmsgid=msg-f:1863729979180153220&th=19dd4c8aa6477984&view=fimg&fur=ip&permmsgid=msg-f:1863729979180153220&sz=s0-l75-ft&attbid=ANGjdJ9wa7QF7QTgOYJDzt4QYN4uIsR3CUcPKYarRsxNkB44R_Lgsbe9GhsAl8B-woIgEEBKtkUuPikCAlaflm-BiwpMn85zB5pdPrG2AS6KvC-976LljBK5t4wphaA&disp=emb&realattid=ii_19dd4c68c87eb496d9c1&zw" width="250" style="border-radius:50%;" />
 </p>
 
 <h3 align="center">B.Tech Artificial Intelligence & Data Science Student</h3>
