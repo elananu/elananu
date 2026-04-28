@@ -2,37 +2,32 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anusrii-e-707a2b28a">
-    <img src="![Uploading unnamed.png…]()
-" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src=![Uploading image.png…]()
- />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250" />
 </p>
 
 <h3 align="center">B.Tech Artificial Intelligence & Data Science Student</h3>
 
 <p align="center">
-💡 AI Enthusiast | 📱 Flutter Developer | 🎯 Future IAS Officer
+AI Enthusiast • Flutter Developer • Problem Solver • Future IAS Officer
 </p>
 
 ---
 
 ## 👋 About Me
 
-<ul>
-<li>🎓 I'm <b>Anusrii E</b>, pursuing <b>B.Tech in Artificial Intelligence and Data Science</b>.</li>
-<li>🏫 Studying at <b>Anna University</b>.</li>
-<li>💻 Skilled in <b>Flutter, Python, Java, SQL, HTML, CSS, JavaScript</b>.</li>
-<li>🤖 Interested in <b>Artificial Intelligence, Machine Learning, Data Science</b>.</li>
-<li>🚀 I build mobile apps, websites, and smart AI projects.</li>
-<li>🎯 My dream is to become an <b>IAS Officer</b>.</li>
-<li>🌱 Currently learning <b>Deep Learning & Real-Time App Development</b>.</li>
-<li>🤝 Open to collaboration and innovative projects.</li>
-<li>📫 Reach me at: <b>your-anusriie@gmail.com</b></li>
-</ul>
+- 🎓 I’m **Anusrii E**, pursuing **B.Tech in Artificial Intelligence & Data Science**
+- 🏫 Studying at **Anna University**
+- 💡 Passionate about **Artificial Intelligence, Machine Learning, Data Science & App Development**
+- 📱 Building projects using **Flutter, Python, Java, SQL, HTML, CSS, JavaScript**
+- 🎯 My goal is to become an **IAS Officer**
+- 🌱 Currently learning **Machine Learning, Deep Learning & Real-Time Apps**
+- 🤝 I love working on innovative and meaningful projects
+- 📫 Reach me at: **anusriie.official@gmail.com**
 
 ---
 
@@ -41,7 +36,7 @@
 ### 💻 Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
@@ -62,41 +57,38 @@
 ### 🤖 AI / Data Science
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge"/>
 </p>
 
-### 🛠 Tools
+### 🛠 Tools & Platforms
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
-
----
-
-## 🚀 My Projects
-
-### 🌐 Portfolio Website
-🔗 https://elananu.github.io/anusriie.github.io/
-
-### 🙏 Murugan App
-Devotional mobile app built using Flutter.
-
-### 🏥 Medicare App
-Healthcare mobile application using Flutter.
-
-### 📅 Timetable App
-Student timetable management app.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elananushow_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elananu&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
 </p>
+
+---
+
+## 🚀 Projects
+
+- 🙏 **Murugan App** – Devotional app built with Flutter  
+- 🏥 **Medicare App** – Healthcare related Flutter application  
+- 📅 **Timetable App** – Student timetable management app  
+- 🌐 **Portfolio Website** – Personal portfolio using HTML, CSS, JS  
+
+🔗 Portfolio: https://elananu.github.io/anusriie.github.io/
 
 ---
 
@@ -118,4 +110,4 @@ Student timetable management app.
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">⭐ Thanks for visiting my profile! Have a great day 😊</h3>
