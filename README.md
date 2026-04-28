@@ -75,8 +75,8 @@ AI Enthusiast • Flutter Developer • Problem Solver • Future IAS Officer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=elananu&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elananu&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -95,7 +95,7 @@ AI Enthusiast • Flutter Developer • Problem Solver • Future IAS Officer
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/elananu">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
