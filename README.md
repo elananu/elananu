@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="220" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="230" />
 </p>
 <h3 align="center">B.Tech Artificial Intelligence & Data Science Student</h3>
 
