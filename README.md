@@ -12,7 +12,7 @@
 <h3 align="center">B.Tech Artificial Intelligence & Data Science Student</h3>
 
 <p align="center">
-AI Enthusiast • Flutter Developer • Problem Solver • Future IAS Officer
+AI Enthusiast • Flutter Developer • Problem Solver 
 </p>
 
 ---
@@ -20,10 +20,9 @@ AI Enthusiast • Flutter Developer • Problem Solver • Future IAS Officer
 ## 👋 About Me
 
 - 🎓 I’m **Anusrii E**, pursuing **B.Tech in Artificial Intelligence & Data Science**
-- 🏫 Studying at **Anna University**
+- 🏫 Studying at **Ramco Institute Of Technology**
 - 💡 Passionate about **Artificial Intelligence, Machine Learning, Data Science & App Development**
 - 📱 Building projects using **Flutter, Python, Java, SQL, HTML, CSS, JavaScript**
-- 🎯 My goal is to become an **IAS Officer**
 - 🌱 Currently learning **Machine Learning, Deep Learning & Real-Time Apps**
 - 🤝 I love working on innovative and meaningful projects
 - 📫 Reach me at: **anusriie.official@gmail.com**
