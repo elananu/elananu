@@ -81,10 +81,15 @@ AI Enthusiast • Flutter Developer • Problem Solver
 
 ## 🚀 Projects
 
-- 🙏 **Murugan App** – Devotional app built with Flutter  
-- 🏥 **Medicare App** – Healthcare related Flutter application  
-- 📅 **Timetable App** – Student timetable management app  
-- 🌐 **Portfolio Website** – Personal portfolio using HTML, CSS, JS  
+- 🙏 **[Murugan Pilgrim App](https://github.com/elananu/murugan_pilgrim_app)** – Devotional pilgrimage app built with Flutter
+- 🏥 **[Medicare App](https://github.com/elananu/meedicare_flutter_app)** – Healthcare related Flutter application
+- 📅 **[Flutter Timetable App](https://github.com/elananu/flutter_timetable_app)** – Student timetable management app
+- 🧠 **[CT-MRI Image Fusion](https://github.com/elananu/CT_MRI_Image_Fusion)** – Medical image fusion project
+- 🖼️ **[Image Augmentation (PyTorch)](https://github.com/elananu/image-augmentation-pytorch)** – Image augmentation techniques using PyTorch
+- 🌾 **[Agri Price Forecasting](https://github.com/elananu/agriprice-forecasting)** – Forecasting agricultural commodity prices
+- 💳 **[Fraud Detection Project](https://github.com/elananu/Fraud-Detection-Project)** – Machine learning based fraud detection
+- 📊 **[Financial Visualization Project](https://github.com/elananu/financial-visualization-project)** – Financial data visualization and analysis
+- 🌐 **[Portfolio Website](https://elananu.github.io/anusriie.github.io/)** – Personal portfolio using HTML, CSS, JS
 
 🔗 Portfolio: https://elananu.github.io/anusriie.github.io/
 
