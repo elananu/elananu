@@ -25,7 +25,7 @@ AI Enthusiast • Flutter Developer • Problem Solver
 - 📱 Building projects using **Flutter, Python, Java, SQL, HTML, CSS, JavaScript**
 - 🌱 Currently learning **Machine Learning, Deep Learning & Real-Time Apps**
 - 🤝 I love working on innovative and meaningful projects
-- 📫 Reach me at: **anusriie.official@gmail.com**
+- 📫 Reach me at: **anusriie@gmail.com**
 
 ---
 
