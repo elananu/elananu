@@ -153,7 +153,7 @@ Fuses CT and MRI scans to combine complementary diagnostic signal.
 <div align="center">
 
 ## 📡 Connect
-<a href="https://www.linkedin.com/in/anusrii-e-707a2b28profile">
+<a href="[https://www.linkedin.com/in/anusrii-e-707a2b28profile](https://www.linkedin.com/in/anusrii-e-707a2b28a?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
