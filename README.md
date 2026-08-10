@@ -156,7 +156,7 @@ Fuses CT and MRI scans to combine complementary diagnostic signal.
 
 <a href="ADD_YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="ADD_YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"></a>
-<a href="mailto:ADD_YOUR_PROFESSIONAL_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="mailto:anusriie@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 
 ```
 while (true) { build(); learn(); solve(); improve(); }
