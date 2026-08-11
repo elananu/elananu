@@ -5,25 +5,25 @@
 
 I'm a final-year B.Tech student specializing in **Artificial Intelligence & Data Science**, passionate about building practical, scalable and AI-powered solutions.
 
-💻 Interested in **AI/ML, Data Science, Backend Development and Full-Stack Development**
+Interested in **AI/ML, Data Science, Backend Development and Full-Stack Development**
 
-🚀 I enjoy transforming ideas into real-world applications using Python, Java and modern web technologies.
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 B.Tech Artificial Intelligence & Data Science
-- 💼 Intern @ Zoho
-- 🔭 Currently building AI-powered and full-stack projects
-- 🌱 Currently improving my Data Structures & Algorithms skills
-- 💡 Interested in AI/ML Engineering and Software Development
-- 📍 Tamil Nadu, India
-- 🎯 Looking for Software Development / AI-ML opportunities
+I enjoy transforming ideas into real-world applications using Python, Java and modern web technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+-  B.Tech Artificial Intelligence & Data Science
+-  Intern @ Zoho
+-  Currently building AI-powered and full-stack projects
+-  Currently improving my Data Structures & Algorithms skills
+-  Interested in AI/ML Engineering and Software Development
+-  Tamil Nadu, India
+-  Looking for Software Development / AI-ML opportunities
+
+---
+
+## Tech Stack
 
 ### Languages
 Python • Java • SQL • JavaScript • Dart
@@ -46,7 +46,7 @@ Git • GitHub • VS Code • Google Colab • Hugging Face • Vercel
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🏥 MedRoute
 **FastAPI • React • SQL • WebSockets**
@@ -61,7 +61,7 @@ Distributed hospital resource-routing system designed for real-time coordination
 
 ---
 
-### 🌱 Smart Irrigation System
+### Smart Irrigation System
 
 **FastAPI • LSTM • Random Forest • Chart.js**
 
@@ -74,7 +74,7 @@ AI-powered smart irrigation platform designed to predict irrigation requirements
 
 ---
 
-### 🌾 AgriPrice Forecasting
+### AgriPrice Forecasting
 
 **React • FastAPI • Random Forest**
 
@@ -87,7 +87,7 @@ AI-powered agricultural price forecasting platform.
 
 ---
 
-### 📦 Courier Parcel Tracking
+### Courier Parcel Tracking
 
 **Java • Swing • MongoDB**
 
@@ -100,7 +100,7 @@ Desktop logistics application for managing courier operations.
 
 ---
 
-### 🐛 Crop & Pest Detection
+### Crop & Pest Detection
 
 **Python • YOLOv8 • FastAPI • React**
 
@@ -113,7 +113,7 @@ Computer-vision based application for detecting crop and pest conditions.
 
 ---
 
-### 🧠 CT-MRI Image Fusion
+### CT-MRI Image Fusion
 
 **Python • Deep Learning • Medical Imaging**
 
@@ -125,7 +125,7 @@ Deep-learning based system for combining complementary CT and MRI information.
 
 ---
 
-## 📚 Foundations
+## Foundations
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
@@ -137,27 +137,27 @@ Deep-learning based system for combining complementary CT and MRI information.
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 I continuously work on improving my coding skills, building projects and learning new technologies.
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
-💼 **LinkedIn:**  
+**LinkedIn:**  
 https://www.linkedin.com/in/anusrii-e-707a2b28a/
 
-🌐 **Portfolio:**  
+**Portfolio:**  
 PASTE-YOUR-PORTFOLIO-LINK-HERE
 
-📧 **Email:**  
+**Email:**  
 PASTE-YOUR-EMAIL-HERE
 
 ---
 
-### 💭 Developer Mindset
+### Developer Mindset
 
 > Learn → Build → Deploy → Improve
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
