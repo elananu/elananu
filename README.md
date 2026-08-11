@@ -1,170 +1,163 @@
-```python
-class AnusriiE:
-    def __init__(self):
-        self.role       = "AI/ML Engineer & Full-Stack Developer"
-        self.focus      = ["Distributed Systems", "Real-Time Backends", "Applied ML"]
-        self.education  = "B.Tech AI & Data Science, Ramco Institute of Technology (2027)"
-        self.location   = "Tamil Nadu, India"
-        self.status     = "shipping production-grade systems, not prototypes"
 
-    def experience(self):
-        return {
-            "internships": ["Zoho Corporation", "MarqWon Dynamics",
-                             "Abservetech Pvt. Ltd.", "Elysium Technologies"],
-            "leadership":  "AI & DS Lead — Smart Irrigation System (9 crop types, multi-team)"
-        }
-```
+# 👋 Hi, I'm Anusrii E
 
-<div align="center">
+### B.Tech Artificial Intelligence & Data Science | Aspiring AI/ML Engineer
 
-### `> currently looking for:` **Software Development Engineer** / **AI-ML Engineer** roles
+I'm a final-year B.Tech student specializing in **Artificial Intelligence & Data Science**, passionate about building practical, scalable and AI-powered solutions.
 
-`Distributed Systems`&nbsp;·&nbsp;`System Design`&nbsp;·&nbsp;`Real-Time Systems`&nbsp;·&nbsp;`Machine Learning`&nbsp;·&nbsp;`Full-Stack`
+💻 Interested in **AI/ML, Data Science, Backend Development and Full-Stack Development**
 
-</div>
+🚀 I enjoy transforming ideas into real-world applications using Python, Java and modern web technologies.
 
 ---
 
-## ⚙️ Stack
+## 👩‍💻 About Me
 
-```
-LANGUAGES     Python · Java · SQL · C
-MACHINE LEARN PyTorch · Scikit-learn · TensorFlow · YOLOv8 · NLP · LSTM · Random Forest
-BACKEND       FastAPI · REST · WebSockets · JWT Auth · Priority Queuing
-FRONTEND      React · Vite · JavaScript · HTML/CSS
-DATA          SQLite · SQLAlchemy · MongoDB Atlas
-INFRA         Git · GitHub · Vercel · Hugging Face Spaces
-```
+- 🎓 B.Tech Artificial Intelligence & Data Science
+- 💼 Intern @ Zoho
+- 🔭 Currently building AI-powered and full-stack projects
+- 🌱 Currently improving my Data Structures & Algorithms skills
+- 💡 Interested in AI/ML Engineering and Software Development
+- 📍 Tamil Nadu, India
+- 🎯 Looking for Software Development / AI-ML opportunities
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Languages
+Python • Java • SQL • JavaScript • Dart
 
-**🏥 MedRoute**
-`FastAPI` `SQLAlchemy` `React` `WebSockets`
+### AI & Machine Learning
+Machine Learning • Deep Learning • Computer Vision • NLP  
+TensorFlow • PyTorch • Scikit-learn • YOLOv8 • OpenCV
 
-Distributed hospital resource-routing engine — real-time coordination across facilities, no polling.
+### Backend
+FastAPI • Flask • REST APIs • WebSockets
 
-```diff
-+ priority-based request queuing
-+ live WebSocket sync across clients
-+ JWT auth w/ role-based access
-+ Leaflet geospatial tracking panel
-+ full audit logging
-```
+### Frontend
+React.js • HTML • CSS • JavaScript • Flutter
 
-</td>
-<td width="50%" valign="top">
+### Databases
+MySQL • SQLite • MongoDB
 
-**🌾 Smart Irrigation System**
-`FastAPI` `LSTM` `Random Forest` `Chart.js`
-*AI & DS Technical Lead*
+### Tools & Platforms
+Git • GitHub • VS Code • Google Colab • Hugging Face • Vercel
 
-Multi-team platform predicting irrigation needs across 9 crop types, sensor to dashboard.
+---
 
-```diff
-+ LSTM + Random Forest per-crop models
-+ asyncio live sensor simulator
-+ /api/live streaming endpoint
-+ real-time dark-theme dashboard
-```
+## 🚀 Featured Projects
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🏥 MedRoute
+**FastAPI • React • SQL • WebSockets**
 
-**📈 AgriPrice Forecasting**
-`React` `FastAPI` `Random Forest`
-*Deployed — live on the web*
+Distributed hospital resource-routing system designed for real-time coordination across facilities.
 
-Full-stack forecasting app across five agricultural commodities.
+- Priority-based request handling
+- Real-time WebSocket communication
+- JWT authentication
+- Role-based access
+- Real-time monitoring dashboard
 
-```diff
-+ React on Vercel, FastAPI on HF Spaces
-+ regression models in production
-+ owned full deployment pipeline
-```
+---
 
-</td>
-<td width="50%" valign="top">
+### 🌱 Smart Irrigation System
 
-**📦 Courier Parcel Tracking**
-`Java` `Swing` `MongoDB Atlas`
+**FastAPI • LSTM • Random Forest • Chart.js**
 
-Desktop logistics application modeling courier operations end to end.
+AI-powered smart irrigation platform designed to predict irrigation requirements across multiple crop types.
 
-```diff
-+ Java Swing UI, admin + customer flows
-+ MongoDB Atlas integration
-+ OOP architecture throughout
-```
+- Machine learning prediction
+- Sensor-to-dashboard workflow
+- Crop-specific recommendations
+- Real-time monitoring
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-**🐛 Smart Crop & Pest Detection**
-`Python` `YOLOv8` `FastAPI` `React`
+### 🌾 AgriPrice Forecasting
 
-Computer-vision app for real-time crop and pest identification.
+**React • FastAPI • Random Forest**
 
-```diff
-+ custom-trained YOLOv8 inference backend
-+ React/Vite upload + detection UI
-```
+AI-powered agricultural price forecasting platform.
 
-</td>
-<td width="50%" valign="top">
+- Commodity price prediction
+- Interactive dashboard
+- Machine learning forecasting
+- Deployed web application
 
-**🧠 CT–MRI Image Fusion**
-`Python` `Deep Learning` `Medical Imaging`
+---
 
-Fuses CT and MRI scans to combine complementary diagnostic signal.
+### 📦 Courier Parcel Tracking
 
-```diff
-+ preprocessing + model-based fusion
-+ quantitative result evaluation
-```
+**Java • Swing • MongoDB**
 
-</td>
-</tr>
-</table>
+Desktop logistics application for managing courier operations.
+
+- Customer management
+- Parcel tracking
+- MongoDB integration
+- Java Swing interface
+
+---
+
+### 🐛 Crop & Pest Detection
+
+**Python • YOLOv8 • FastAPI • React**
+
+Computer-vision based application for detecting crop and pest conditions.
+
+- YOLOv8 object detection
+- Image-based prediction
+- FastAPI backend
+- React interface
+
+---
+
+### 🧠 CT-MRI Image Fusion
+
+**Python • Deep Learning • Medical Imaging**
+
+Deep-learning based system for combining complementary CT and MRI information.
+
+- Image preprocessing
+- Medical image fusion
+- Quantitative evaluation
 
 ---
 
 ## 📚 Foundations
 
-```
-[■■■■■■■■■■] Data Structures & Algorithms
-[■■■■■■■■■□] System Design
-[■■■■■■■■□□] Distributed Systems
-[■■■■■■■■□□] Operating Systems
-[■■■■■■■□□□] Computer Networks
-```
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- System Design
+- Distributed Systems
 
 ---
 
-<div align="center">
+## 📊 GitHub
 
-## 📡 Connect
-<a href="https://www.linkedin.com/in/anusrii-e-707a2b28a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+I continuously work on improving my coding skills, building projects and learning new technologies.
 
+---
 
-<a href="http://127.0.0.1:5500/index.html">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
-<a href="mailto:anusriie@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+## 🤝 Connect With Me
 
-```
-while (true) { build(); learn(); solve(); improve(); }
-```
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/anusrii-e-707a2b28a/
 
-</div>
+🌐 **Portfolio:**  
+PASTE-YOUR-PORTFOLIO-LINK-HERE
+
+📧 **Email:**  
+PASTE-YOUR-EMAIL-HERE
+
+---
+
+### 💭 Developer Mindset
+
+> Learn → Build → Deploy → Improve
+
+⭐ Thanks for visiting my profile!
