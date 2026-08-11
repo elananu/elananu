@@ -149,10 +149,10 @@ I continuously work on improving my coding skills, building projects and learnin
 https://www.linkedin.com/in/anusrii-e-707a2b28a/
 
 **Portfolio:**  
-PASTE-YOUR-PORTFOLIO-LINK-HERE
+https://elananu.github.io/anusrii.github.io/
 
 **Email:**  
-PASTE-YOUR-EMAIL-HERE
+anusriie@gmail.com
 
 ---
 
