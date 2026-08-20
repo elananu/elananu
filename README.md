@@ -1,163 +1,157 @@
-
 # 👋 Hi, I'm Anusrii E
 
 ### B.Tech Artificial Intelligence & Data Science | Aspiring AI/ML Engineer
 
-I'm a final-year B.Tech student specializing in **Artificial Intelligence & Data Science**, passionate about building practical, scalable and AI-powered solutions.
+I'm a final-year B.Tech student specializing in **Artificial Intelligence & Data Science**, passionate about building practical, scalable, and AI-powered solutions.
 
-Interested in **AI/ML, Data Science, Backend Development and Full-Stack Development**
+I'm interested in **AI/ML, Data Science, Backend Development, and Full-Stack Development**.
 
-I enjoy transforming ideas into real-world applications using Python, Java and modern web technologies.
-
----
-
-## About Me
-
--  B.Tech Artificial Intelligence & Data Science
--  Intern @ Zoho
--  Currently building AI-powered and full-stack projects
--  Currently improving my Data Structures & Algorithms skills
--  Interested in AI/ML Engineering and Software Development
--  Tamil Nadu, India
--  Looking for Software Development / AI-ML opportunities
+I enjoy transforming ideas into real-world applications using **Python, Java, and modern web technologies**.
 
 ---
 
-## Tech Stack
+## 👩‍💻 About Me
+
+* 🎓 B.Tech Artificial Intelligence & Data Science
+* 💼 Ex-Intern @ Zoho
+* 🚀 Currently building AI-powered and full-stack projects
+* 🧠 Improving my Data Structures & Algorithms skills
+* 🤖 Interested in AI/ML Engineering and Software Development
+* 📍 Tamil Nadu, India
+* 💼 Looking for Software Development / AI-ML opportunities
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
-Python • Java • SQL • JavaScript • Dart
 
-### AI & Machine Learning
-Machine Learning • Deep Learning • Computer Vision • NLP  
-TensorFlow • PyTorch • Scikit-learn • YOLOv8 • OpenCV
+`Python` • `Java` • `SQL` • `JavaScript` • `Dart`
 
-### Backend
-FastAPI • Flask • REST APIs • WebSockets
+### 🤖 AI & Machine Learning
 
-### Frontend
-React.js • HTML • CSS • JavaScript • Flutter
+`Machine Learning` • `Deep Learning` • `Computer Vision` • `NLP`
 
-### Databases
-MySQL • SQLite • MongoDB
+`TensorFlow` • `PyTorch` • `Scikit-learn` • `YOLOv8` • `OpenCV`
 
-### Tools & Platforms
-Git • GitHub • VS Code • Google Colab • Hugging Face • Vercel
+### ⚙️ Backend
 
----
+`FastAPI` • `Flask` • `REST APIs` • `WebSockets`
 
-## Featured Projects
+### 🎨 Frontend
 
-### 🏥 MedRoute
-**FastAPI • React • SQL • WebSockets**
+`React.js` • `HTML` • `CSS` • `JavaScript` • `Flutter`
 
-Distributed hospital resource-routing system designed for real-time coordination across facilities.
+### 🗄️ Databases
 
-- Priority-based request handling
-- Real-time WebSocket communication
-- JWT authentication
-- Role-based access
-- Real-time monitoring dashboard
+`MySQL` • `SQLite` • `MongoDB`
+
+### 🔧 Tools & Platforms
+
+`Git` • `GitHub` • `VS Code` • `Google Colab` • `Hugging Face` • `Vercel`
 
 ---
 
-### Smart Irrigation System
+## 🚀 Featured Projects
 
-**FastAPI • LSTM • Random Forest • Chart.js**
+### 🌾 Agri-AI — AI-Based Crop Disease Detection
 
-AI-powered smart irrigation platform designed to predict irrigation requirements across multiple crop types.
+**YOLOv8 • FastAPI • React/Vite • Computer Vision • REST API**
 
-- Machine learning prediction
-- Sensor-to-dashboard workflow
-- Crop-specific recommendations
-- Real-time monitoring
+AI-powered crop disease detection platform built using computer vision and full-stack technologies.
 
----
+* Trained a **YOLOv8 model** on the **PlantDoc dataset with 29 classes** to identify crop diseases from leaf images.
+* Built a **FastAPI backend** and **React/Vite frontend** for end-to-end prediction.
+* Integrated the **Anthropic API** to generate AI-powered explanations for detected diseases.
+* Deployed the backend on **Render** and frontend on **Vercel**.
 
-### AgriPrice Forecasting
-
-**React • FastAPI • Random Forest**
-
-AI-powered agricultural price forecasting platform.
-
-- Commodity price prediction
-- Interactive dashboard
-- Machine learning forecasting
-- Deployed web application
+[💻 GitHub](https://github.com/elananu/agri-ai-project-complete) • [🚀 Live Demo](agri-ai-project-complete.vercel.app)
 
 ---
 
-### Courier Parcel Tracking
+### 📈 AgriPrice Forecasting — Agricultural Price Prediction Platform
 
-**Java • Swing • MongoDB**
+**FastAPI • React/Vite • Recharts • Hugging Face Spaces • Vercel**
 
-Desktop logistics application for managing courier operations.
+Full-stack agricultural price forecasting platform designed to provide interactive machine-learning-based commodity price predictions.
 
-- Customer management
-- Parcel tracking
-- MongoDB integration
-- Java Swing interface
+* Developed REST APIs for agricultural price forecasting.
+* Built an interactive **Recharts dashboard** with forecast tabs.
+* Added **CSV upload and data export** functionality.
+* Created a responsive React/Vite frontend.
+* Deployed backend services on **Hugging Face Spaces** and frontend on **Vercel**.
+* Resolved free-tier scheduling and sleep/wake issues to improve forecast availability.
 
----
-
-### Crop & Pest Detection
-
-**Python • YOLOv8 • FastAPI • React**
-
-Computer-vision based application for detecting crop and pest conditions.
-
-- YOLOv8 object detection
-- Image-based prediction
-- FastAPI backend
-- React interface
+[💻 GitHub](https://github.com/elananu/agriprice-forecasting) • [🚀 Live Demo](agriprice-forecasting.vercel.app)
 
 ---
 
-### CT-MRI Image Fusion
+### 🛡️ FinGuard-AI — Financial Fraud Detection & Risk Analytics
 
-**Python • Deep Learning • Medical Imaging**
+**Python • Streamlit • Pandas • NumPy • Scikit-learn • Plotly**
 
-Deep-learning based system for combining complementary CT and MRI information.
+AI-powered financial fraud detection and risk analytics dashboard for analyzing transaction data.
 
-- Image preprocessing
-- Medical image fusion
-- Quantitative evaluation
+* Built an interactive platform for uploading **transaction CSV files**.
+* Implemented machine-learning-based **anomaly detection** to identify suspicious transactions.
+* Developed responsive visualizations for analyzing financial risk patterns.
+* Used **Pandas and NumPy** for data processing and **Scikit-learn** for machine learning.
+* Added downloadable results for further analysis.
 
----
-
-## Foundations
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- System Design
-- Distributed Systems
+[💻 GitHub](https://github.com/elananu/FinGuard-AI) • [🚀 Live Demo](https://elananu-finguard-ai-app-subabr.streamlit.app/)
 
 ---
 
-## GitHub
+### 🧬 CT & MRI Image Fusion — Multi-Modal Medical Image Fusion
 
-I continuously work on improving my coding skills, building projects and learning new technologies.
+**Python • Deep Learning • Image Processing**
 
----
+Deep-learning-based medical image fusion system designed to combine complementary information from CT and MRI scans.
 
-## Connect With Me
+* Implemented image preprocessing techniques for medical images.
+* Combined CT and MRI information into a single fused image.
+* Focused on improving image detail for medical image analysis.
+* Performed quantitative evaluation of the generated fused images.
 
-**LinkedIn:**  
-https://www.linkedin.com/in/anusrii-e-707a2b28a/
-
-**Portfolio:**  
-https://elananu.github.io/anusrii.github.io/
-
-**Email:**  
-anusriie@gmail.com
+[💻 GitHub](https://github.com/elananu/CT_MRI_Image_Fusion) • [🚀 Live Demo](https://elananu-ct-mri-image-fusion-app-5qhud7.streamlit.app/)
 
 ---
 
-### Developer Mindset
+### 🖼️ Image Augmentation — PyTorch Deep Learning Pipeline
 
-> Learn → Build → Deploy → Improve
+**Python • PyTorch • Deep Learning**
 
-Thanks for visiting my profile!
+Image augmentation pipeline designed to improve training data diversity for deep-learning models.
+
+* Implemented multiple image augmentation techniques using **PyTorch**.
+* Increased dataset diversity for model training.
+* Used augmentation to help reduce **overfitting**.
+* Designed the pipeline for use in computer-vision and deep-learning workflows.
+
+[💻 GitHub](https://github.com/elananu/image-augmentation-pytorch) • [🚀 Live Demo]( https://elananu-image-augmentation-pytorch-app-mzg5or.streamlit.app)
+
+
+
+
+## 🐙 GitHub
+
+I continuously work on improving my coding skills, building projects, and learning new technologies.
+
+
+## 🤝 Connect With Me
+
+LINKEDIN: https://www.linkedin.com/in/anusrii-e-707a2b28a/
+PORTFOLIO:https://elananu.github.io/anusrii.github.io/
+GMAIL: anusriie@gmail.com
+    
+---
+
+## 💡 Developer Mindset
+
+> **Learn → Build → Deploy → Improve**
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you find my projects interesting, feel free to explore my repositories and connect with me.
